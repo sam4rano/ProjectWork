@@ -1,0 +1,46 @@
+Creating a virtual environment in python
+using code: python -m venv venv on the terminal, automatically create a venv 
+
+
+ctrl+shift+p   select python then select python 3.7 venv
+
+
+Had a bit of issue installing scrapy at the start had to upgrade to the latest pip version using 
+python -m pip install --upgrade pip
+
+then i install scrapy again using pip install scrapy command
+
+
+creating a python virtual environment
+i run this command:: python -m venv venv
+this will create a virtual environment named venv.
+
+then command+shift+p choose python interpreter
+then choose python venv
+
+install scrapy
+
+instantiate the project name:::
+scrapy startproject postscrape
+
+navigate into the name of the newly folder created which is postscrape in this case
+
+
+navigate to the spider folder to create a new file
+
+ctrl + z to exit the scrapy shell
+
+
+NB: Always put quote around the url you are crawling
+
+
+
+.get(): find the and return the first match
+
+.getall() : find and return all the instance of the tag, text etc
+
+
+looping through the document
+
+converting to json files for the output involves
+scrapy crawl posts -o posts.json
