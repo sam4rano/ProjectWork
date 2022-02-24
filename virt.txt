@@ -63,3 +63,28 @@ At line:1 char:4
 
 Solution: This really solved thhe whole problem, i think i have two repository instantiated
  at the same time so when i run git command it was confuse on which one to effect
+
+
+
+ > git add -A -- C:\Users\USER\Documents\400L\final year project\ProjectWork\virt.txt C:\Users\USER\Documents\400L\final year project\ProjectWork\index.py
+The following paths are ignored by one of your .gitignore files:
+index.py
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+
+
+Note:
+
+17 >> 1 → 17 // 2 (17 floor-divided by 2 to the power of 1) → 8 
+(shifting to the right by one bit is the same as integer division by two)
+17 << 2 → 17 * 4 (17 multiplied by 2 to the power of 2) → 68 
+(shifting to the left by two bits is the same as integer multiplication by four)
+
+& does a bitwise and, e.g., x & y = 0, which is 0000 0000 in binary,
+| does a bitwise or, e.g., x | y = 31, which is 0001 1111 in binary,
+˜  does a bitwise not, e.g., ˜ x = 240*, which is 1111 0000 in binary,
+^ does a bitwise xor, e.g., x ^ y = 31, which is 0001 1111 in binary,
+>> does a bitwise right shift, e.g., y >> 1 = 8, which is 0000 1000 in binary,
+<< does a bitwise left shift, e.g., y << 3 = , which is 1000 0000 in binary,
+
