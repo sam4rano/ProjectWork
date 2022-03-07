@@ -1,41 +1,22 @@
 Performance evaluation of Traditional Machine Learning 
 and Deep Learning  models for Automatic classification of Yoruba documents
 
-
-
-
-Document classification has been one of the most widely
-Document classification has been one of the most widely studied areas in Artificial Intelligence 
-and NLP, It is the task of grouping documents into categories based 
-on their content. Document classification is a significant learning problem that is at 
-the core of many information management and retrieval tasks. Document classification 
-performs an essential role in various applications that deals with organizing, classifying, 
-searching and concisely representing a significant amount of information. Document
-classification is a longstanding problem in information retrieval which has been well 
-studied [4].
+*NLP*
+As more and more information is stored and shared in the form of text files, it becomes difficult to analyze 
+such large quantities of text data. Natural Language Processing (NLP) tasks delve into the processing and 
+analysis of text to extract information and insights. It consists of a wide range of tasks like text classification, 
+natural language inference, machine translation, question answering, etc [27]. All these tasks are aimed at solving a 
+particular problem and providing a better interpretation of natural language data.
 
 
 
 
 
-Document classification has two different methods: manual and automatic classification. 
-In manual document classification, users interpret the meaning of text, identify the relationships between 
-concepts and categorize documents. 
-While this gives users more control over classification, manual classification is both expensive and time consuming
 
-Automatic document classification applies machine learning or other technologies to automatically classify documents; this results in faster, scalable and more objective classification. There are at least 3 approaches:
-
-Supervised method: The classifier is trained on a manually tagged set of documents. The classifier can predict new categories and can also provide a confidence indicator. With supervised document classification, the user labels a set of documents that the automated system can use as a model.
-Unsupervised method: Documents are mathematically organized based on similar words and phrases.
-Rules-based method: This method consists of leveraging the natural language understanding capability of a system and 
-writing linguistic rules that would instruct the system to act like a person in classifying a document. 
-This means using the semantically relevant elements of a text to drive the automatic categorization. 
-This method has the advantage of constantly improving the performance (open box approach) instead of relying solely 
-on statistics or mathemathics like the previous two methods. 
-This method is associated with higher quality performance, especially in complex scenarios.
-
-
-By classifying text, we are aiming to assign one or more classes or categories to a document, making it easier to manage and sort. This is especially useful for publishers, financial institutions, insurance companies or any industry that deals with large amounts of content. An automatic document classification tool can realize a significant reduction in manual entry costs and improve the speed and turnaround time for document processing.
+By classifying text, we are aiming to assign one or more classes or categories to a document, making it easier to manage and sort. 
+This is especially useful for publishers, financial institutions, insurance companies or any industry that deals with large 
+amounts of content. An automatic document classification tool can realize a significant reduction in manual entry costs 
+and improve the speed and turnaround time for document processing.
 
 Why Semantic Intelligence is the best option for document classification?
 Semantic technology processes and interprets content by relying on a variety of linguistic techniques including text mining, entity extraction, concept analysis, natural language processing, categorization and sentiment analysis. Semantic technology allows the automatic comprehension of words and entire documents, and understands the meanings of words in context.
